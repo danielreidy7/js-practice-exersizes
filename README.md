@@ -16,4 +16,10 @@ I am taking part in the https://adventofcode.com/ this year. Lets see what Chrsi
 
 ### Day 1 
 TwoSum challenge with a slight twist.
-![](https://i.ibb.co/MBSmqRm/Screenshot-2020-12-01-at-08-42-53.png)
+[Solution](adventofcode/day_1/solution.js)
+
+
+### Day 2 
+Password checking. Today took me 30 mins just to format the data into JSON. There is a gaping hole in my regex game.
+I added some Regex study time to my list.
+[Solution](adventofcode/day_2/solution.js)
