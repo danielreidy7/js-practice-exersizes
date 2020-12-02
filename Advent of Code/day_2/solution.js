@@ -22,7 +22,7 @@ How many passwords are valid according to their policies?
 */ 
 
 // I formatted the data in Google sheets and then placed as a module export in day_2_data.js
-const passwordData = require('./day_2_data');
+const passwordData = require('./data');
 
 
 // First puzzle solution

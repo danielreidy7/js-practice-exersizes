@@ -11,11 +11,11 @@ It will also keep me honest with some weekly training to 'sharpen the sword'
 
 # 2020 Advent of code
 
-I am taking part in the https://adventofcode.com/ this year. Lets see what Chrsitmas will bring. 
-25 days of coding puzzles.
+I am taking part in the https://adventofcode.com/ this year. Lets see what Chrsitmas will bring (probably just 25 days of coding puzzle).
 
 ### Day 1 
-TwoSum challenge with a slight twist.
+TwoSum challenge with a slight twist. Finding instaces of the sum of two integers that add up to 2020.
+Then a ThreeSum problem on the same dataset. (This one I will need to redo as I bruteforced it before my ears bled.)
 [Solution](adventofcode/day_1/solution.js)
 
 
