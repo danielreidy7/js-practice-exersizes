@@ -23,3 +23,8 @@ Then a ThreeSum problem on the same dataset. (This one I will need to redo as I 
 Password checking. Today took me 30 mins just to format the data into JSON. There is a gaping hole in my regex game.
 I added some Regex study time to my list.
 [Solution](adventofcode/day_2/solution.js)
+
+### Day 3
+Living in the French Alps must have helped me today. Challenge of toboganning down a mountain trying to avoid trees.
+Today is the first day in a few years that I have written an algo that works, with no debugging and is relativley elegant. 
+[Solution](adventofcode/day_3/solution.js)
