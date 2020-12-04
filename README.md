@@ -28,3 +28,9 @@ I added some Regex study time to my list.
 Living in the French Alps must have helped me today. Challenge of toboganning down a mountain trying to avoid trees.
 Today is the first day in a few years that I have written an algo that works, with no debugging and is relativley elegant. 
 [Solution](adventofcode/day_3/solution.js)
+
+### Day 4
+Passport Data processing at the Elf Airport. 
+REGEX some more REGEX and then some hidden traps to fool your regex. 
+☘️☘️☘️ The luck of the 🇮🇪 I did a refresher course on regex LAST NIGHT! ☘️☘️☘️.
+[Solution](adventofcode/day_4/solution.js)
