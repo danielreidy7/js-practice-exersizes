@@ -33,4 +33,5 @@ Today is the first day in a few years that I have written an algo that works, wi
 Passport Data processing at the Elf Airport. 
 REGEX some more REGEX and then some hidden traps to fool your regex. 
 ☘️☘️☘️ The luck of the 🇮🇪 I did a refresher course on regex LAST NIGHT! ☘️☘️☘️.
+Need to work on my conditional reasoning. Part 2 took far longer than it should have.
 [Solution](adventofcode/day_4/solution.js)
