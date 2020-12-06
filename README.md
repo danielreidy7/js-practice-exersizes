@@ -35,3 +35,12 @@ REGEX some more REGEX and then some hidden traps to fool your regex.
 ☘️☘️☘️ The luck of the 🇮🇪 I did a refresher course on regex LAST NIGHT! ☘️☘️☘️.
 Need to work on my conditional reasoning. Part 2 took far longer than it should have.
 [Solution](adventofcode/day_4/solution.js)
+
+### Day 5
+Today was the first day of snow here in France. Flight boarding problem: algo for seat allocation.
+[Solution](adventofcode/day_5/solution.js)
+
+### Day 6
+Customs form data puzzle involving finding common answers. My regex skills are improving.
+This puzzle showed up my weakness dealing with objects in JS.
+[Solution](adventofcode/day_6/solution.js)
