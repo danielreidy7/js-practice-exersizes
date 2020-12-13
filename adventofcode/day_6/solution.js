@@ -111,11 +111,11 @@ for (let group of customsFormData){
       };
     };
   };
-  for (let n in groupCommonChars){
-    if (groupCommonChars[n] === group.length) {
+  for (let [key,value] of Object.entries(groupCommonChars)){
+    if (value === group.length) {
       commonYesAnswers++
     };
   };
 };
 
-console.log(commonYesAnswers)
+console.log(`The solution to part 2: ${commonYesAnswers}`)
